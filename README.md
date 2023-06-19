@@ -1,10 +1,16 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://shouvikmistry.io)
-<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"
+
+<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif"
+img align="left" alt="Coding" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif"
 img align="right" alt="Coding" width="100">
 <h1 align="center">Hi 👋, I'm shouvik Mistry</h1>
 
 
 <h3 align="center">A passionate frontend developer from India</h3>
+ <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" img align="center" alt="Coding" width="100">
+ <img src="https://user-images.githubusercontent.com/74038190/216655859-f66df97b-6767-4ab2-b6f4-a9cba3ff3591.gif" img align="left" alt="Coding" width="100">
+ <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" img align="right" alt="Coding" width="100">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shouvikmistry&label=Profile%20views&color=0e75b6&style=flat" alt="shouvikmistry" /> </p>
 
