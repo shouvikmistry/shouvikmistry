@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm shouvik Mistry</h1>
 
-<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="Alt Text">
+<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="Alt Text" width="400px" height="400px">
+<h1 align="center">Hi 👋, I'm shouvik Mistry</h1>
 
 
 <h3 align="center">A passionate frontend developer from India</h3>
