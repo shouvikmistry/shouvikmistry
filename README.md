@@ -1,5 +1,6 @@
-
-<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="Alt Text" width="400px" height="400px">
+[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://shouvikmistry.io)
+<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"
+img align="right" alt="Coding" width="100">
 <h1 align="center">Hi 👋, I'm shouvik Mistry</h1>
 
 
