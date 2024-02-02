@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">🔥 Grinding hard to make something cool<br>🪲 Creating bugs since 2020<br>📚 I'm currently learning Web Development(MERN stack)<br>🎯 Goals: Coding | Travel | Gaming | Learn New Tech<br>💬 Ask me about C++<br>🎲 Fun fact: In my free time I usually do gaming or learn new stuff<br>📫 How to reach me shouvikmistry24@gmail.com</h4>
+<h4 align="left">🔥 Grinding hard to make something cool<br>🪲 Creating bugs since 2020<br>📚 I'm currently learning Web Development(MERN stack)<br>🎯 Goals: Coding | Travel | Gaming | Learn New Tech<br>💬 Ask me about JavaScript, C++<br>🎲 Fun fact: In my free time I usually do gaming or learn new stuff<br>📫 How to reach me shouvikmistry24@gmail.com</h4>
 
 ###
 
